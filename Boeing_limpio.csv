@@ -1,0 +1,339 @@
+Country;Customer Name;Delivery Year ;Engine;Model Series;Order Month;Order Year;Region;Delivery Total;Order Total;Unfilled Orders
+Argentina;Aerolineas Argentinas;N/A;CF;737 MAX;Sep;2016;South America;0;9;9
+Australia;BDS Australia P-8;N/A;CF;737-800A;Mar;2021;Oceania;0;2;2
+Australia;Qantas Airways;N/A;GE;787-9;May;2018;Oceania;0;3;3
+Australia;Virgin Australia Airlines;N/A;CF;737 MAX;Nov;2020;Oceania;0;25;25
+Azerbaijan;Silk Way West Airlines;N/A;GE;777F;Apr;2021;Central Asia;0;5;5
+Bahrain;Gulf Air;N/A;RR;787-9;Jan;2008;Middle East;0;1;1
+Bahrain;Gulf Air;N/A;RR;787-9;Apr;2009;Middle East;0;8;4
+Brazil;GOL Linhas Aereas;N/A;CF;737 MAX;May;2013;South America;0;21;17
+Brazil;GOL Linhas Aereas;N/A;CF;737 MAX;Jul;2018;South America;0;15;8
+Brazil;GOL Linhas Aereas;N/A;CF;737 MAX;Jul;2021;South America;0;4;4
+Brazil;GOL Linhas Aereas;N/A;CF;737 MAX;Oct;2012;South America;0;72;59
+Brazil;GOL Linhas Aereas;N/A;CF;737 MAX;Oct;2015;South America;0;9;1
+Brazil;GOL Linhas Aereas;N/A;CF;737 MAX;Nov;2013;South America;0;6;6
+Brazil;LATAM Airlines Brasil;N/A;GE;777F;Feb;2011;South America;0;2;1
+Canada;Air Canada;N/A;CF;737 MAX;Mar;2014;North America;0;25;4
+Canada;WestJet;N/A;GE;787-9;May;2017;North America;0;4;4
+Canada;WestJet;N/A;CF;737 MAX;Sep;2013;North America;0;52;22
+Canada;WestJet;N/A;CF;737 MAX;Oct;2017;North America;0;5;5
+Cayman Islands;Bain Capital Griffin Internati;N/A;CF;737 MAX;Aug;2021;Caribbean;0;4;4
+Cayman Islands;Goshawk Aviation Limited;N/A;CF;737 MAX;Jun;2018;Caribbean;0;20;20
+Chile;LATAM Airlines Group;N/A;RR;787-9;Oct;2007;South America;0;6;6
+China;Cathay Pacific Airways;N/A;GE;777X;Dec;2013;East Asia;0;21;21
+China;China Southern Airlines;N/A;CF;737 MAX;Dec;2015;East Asia;0;34;34
+China;Donghai Airlines;N/A;CF;737 MAX;Sep;2016;East Asia;0;25;25
+China;Hong Kong Int'l Aviation;N/A;GE;777F;Jun;2011;East Asia;0;6;6
+China;Okay Airways Company Limited;N/A;CF;737 MAX;May;2014;East Asia;0;6;6
+China;Okay Airways Company Limited;N/A;CF;737 MAX;Jun;2016;East Asia;0;3;3
+China;Okay Airways Company Limited;N/A;NS;787-9;Sep;2017;East Asia;0;5;5
+China;Ruili Airlines;N/A;NS;787-9;Jul;2016;East Asia;0;6;6
+China;Ruili Airlines;N/A;CF;737 MAX;Aug;2015;East Asia;0;30;30
+China;Ruili Airlines;N/A;CF;737 MAX;Dec;2013;East Asia;0;6;6
+Colombia;Avianca;N/A;RR;787-9;Sep;2012;South America;0;2;2
+Denmark;A/S Maersk Aviation Holding;N/A;GE;777F;Oct;2021;Europe;0;2;2
+Dominican Republic;ARAJET S.A.;N/A;CF;737 MAX;Jan;2022;Caribbean;0;20;20
+Ethiopia;Ethiopian Airlines Group;N/A;CF;737 MAX;Jul;2016;Africa;0;10;10
+Ethiopia;Ethiopian Airlines Group;N/A;CF;737 MAX;Sep;2014;Africa;0;15;15
+France;CMA CGM;N/A;GE;777F;May;2021;Europe;0;2;2
+Germany;Lufthansa;N/A;RR;787-9;Mar;2019;Europe;0;20;20
+Germany;Lufthansa;N/A;GE;787-9;May;2021;Europe;0;5;5
+Germany;Lufthansa;N/A;GE;777X;Nov;2013;Europe;0;20;20
+Hong Kong;CDB Aviation;N/A;CF;737 MAX;Mar;2014;East Asia;0;29;9
+Hong Kong;CDB Aviation;N/A;CF;737 MAX;Nov;2017;East Asia;0;48;10
+India;Akasa Air;N/A;CF;737 MAX;Nov;2021;South Asia;0;72;72
+India;Jet Airways;N/A;CF;737 MAX;Mar;2014;South Asia;0;25;25
+India;Jet Airways;N/A;CF;737 MAX;Apr;2013;South Asia;0;50;25
+India;Jet Airways;N/A;CF;737 MAX;Jun;2018;South Asia;0;75;75
+India;Jet Airways;N/A;GE;787-9;Dec;2006;South Asia;0;10;10
+India;SpiceJet;N/A;CF;737 MAX;Oct;2013;South Asia;0;40;34
+India;SpiceJet;N/A;CF;737 MAX;Dec;2016;South Asia;0;95;95
+India;Vistara;N/A;GE;787-9;Oct;2018;South Asia;0;4;4
+Indonesia;Garuda Indonesia;N/A;CF;737 MAX;Sep;2014;Southeast Asia;0;49;49
+Indonesia;Lion Air;N/A;CF;737 MAX;Feb;2012;Southeast Asia;0;187;187
+Indonesia;Lion Air;N/A;CF;737 MAX;Sep;2017;Southeast Asia;0;50;50
+Iraq;Republic of Iraq;N/A;GE;787-8;Dec;2009;Middle East;0;9;9
+Iraq;Republic of Iraq;N/A;GE;787-9;Dec;2009;Middle East;0;1;1
+Ireland;AerCap;N/A;CF;737 MAX;Apr;2022;Europe;0;6;6
+Ireland;AerCap;N/A;CF;737 MAX;Jun;2015;Europe;0;90;63
+Ireland;AerCap;N/A;GE;787-9;Jun;2017;Europe;0;4;4
+Ireland;AerCap;N/A;NS;787-9;Jun;2017;Europe;0;16;16
+Ireland;AerCap;N/A;RR;787-9;Jun;2017;Europe;0;1;1
+Ireland;AerCap;N/A;CF;737 MAX;Sep;2012;Europe;0;55;55
+Ireland;AerCap;N/A;GE;787-10;Sep;2013;Europe;0;4;2
+Ireland;AerCap;N/A;CF;737 MAX;Oct;2018;Europe;0;2;2
+Ireland;AerCap;N/A;CF;737 MAX;Dec;2016;Europe;0;5;5
+Ireland;Avolon Aerospace Leasing Limit;N/A;CF;737 MAX;Nov;2017;Europe;0;75;31
+Ireland;Ryanair;N/A;CF;737 MAX;Mar;2018;Europe;0;6;6
+Ireland;Ryanair;N/A;CF;737 MAX;Jun;2017;Europe;0;1;1
+Ireland;Ryanair;N/A;CF;737 MAX;Nov;2014;Europe;0;62;62
+Ireland;Ryanair;N/A;CF;737 MAX;Dec;2020;Europe;0;75;75
+Ireland;SMBC Aviation Capital;N/A;CF;737 MAX;Jan;2018;Europe;0;8;3
+Ireland;SMBC Aviation Capital;N/A;CF;737 MAX;Apr;2019;Europe;0;4;4
+Ireland;SMBC Aviation Capital;N/A;CF;737 MAX;May;2021;Europe;0;7;7
+Ireland;SMBC Aviation Capital;N/A;CF;737 MAX;Jun;2015;Europe;0;8;6
+Ireland;SMBC Aviation Capital;N/A;CF;737 MAX;Nov;2014;Europe;0;69;47
+Ireland;Timaero Ireland Limited;N/A;CF;737 MAX;Jan;2014;Europe;0;18;15
+Ireland;Timaero Ireland Limited;N/A;CF;737 MAX;Sep;2016;Europe;0;2;2
+Japan;All Nippon Airways Co., Ltd.;N/A;GE;787-9;Mar;2020;East Asia;0;1;1
+Japan;All Nippon Airways Co., Ltd.;N/A;GE;787-10;Mar;2020;East Asia;0;11;11
+Japan;All Nippon Airways Co., Ltd.;N/A;RR;787-10;Mar;2015;East Asia;0;1;1
+Japan;All Nippon Airways Co., Ltd.;N/A;RR;787-9;Jul;2014;East Asia;0;6;6
+Japan;All Nippon Airways Co., Ltd.;N/A;RR;787-9;Sep;2012;East Asia;0;1;1
+Japan;ANA Holdings Inc.;N/A;GE;777X;Jul;2014;East Asia;0;20;20
+Japan;BDS Japan International Tanker;N/A;PW;767-2C;Nov;2020;East Asia;0;2;2
+Jordan;Royal Jordanian;N/A;GE;787-8;Jun;2010;Middle East;0;3;2
+Kazakhstan;Air Astana;N/A;RR;787-8;Feb;2012;Central Asia;0;3;3
+Kuwait;ALAFCO;N/A;CF;737 MAX;Nov;2017;Middle East;0;20;20
+Malaysia;CALC Aircraft Assets Limited;N/A;CF;737 MAX;Jun;2017;Southeast Asia;0;16;16
+Malaysia;CALC Aircraft Assets Limited;N/A;CF;737 MAX;Dec;2018;Southeast Asia;0;50;50
+Netherlands;Air France-KLM Group;N/A;GE;787-10;Dec;2011;Europe;0;9;9
+New Zealand;Air New Zealand;N/A;GE;787-9;Sep;2019;Oceania;0;2;2
+New Zealand;Air New Zealand;N/A;GE;787-10;Sep;2019;Oceania;0;6;6
+New Zealand;BDS New Zealand P-8;N/A;CF;737-800A;Mar;2020;Oceania;0;4;4
+Nigeria;Air Peace;N/A;CF;737 MAX;Sep;2018;Africa;0;10;10
+Nigeria;Arik Air;N/A;NS;787-9;Jan;2017;Africa;0;2;2
+Nigeria;Arik Air;N/A;NS;787-9;Mar;2007;Africa;0;3;3
+Nigeria;Arik Air;N/A;CF;737 MAX;May;2016;Africa;0;8;8
+Nigeria;Arik Air;N/A;NS;787-9;Sep;2007;Africa;0;4;4
+Norway;Norwegian Air Shuttle;N/A;CF;737 MAX;Jan;2012;Europe;0;88;77
+Norway;Norwegian Air Shuttle;N/A;CF;737 MAX;May;2016;Europe;0;4;1
+Norway;Norwegian Air Shuttle;N/A;RR;787-9;Oct;2015;Europe;0;5;5
+Oman;Oman Air (SAOC);N/A;GE;787-9;Feb;2020;Middle East;0;4;4
+Oman;Oman Air (SAOC);N/A;CF;737 MAX;Oct;2015;Middle East;0;20;7
+Oman;Oman Air (SAOC);N/A;GE;787-9;Nov;2011;Middle East;0;4;4
+Pakistan;Pakistan International Airline;N/A;GE;777-300ER;May;2012;South Asia;0;5;5
+Panama;Copa Airlines;N/A;CF;737 MAX;Feb;2015;Central America and Mexico;0;44;37
+Panama;Copa Airlines;N/A;CF;737 MAX;Mar;2015;Central America and Mexico;0;1;1
+Papua New Guinea;Air Niugini;N/A;CF;737 MAX;Dec;2014;Oceania;0;4;4
+Poland;Enter Air Sp. z o.o.;N/A;CF;737 MAX;Mar;2015;Europe;0;1;1
+Poland;Enter Air Sp. z o.o.;N/A;CF;737 MAX;Aug;2020;Europe;0;2;2
+Poland;Enter Air Sp. z o.o.;N/A;CF;737 MAX;Oct;2014;Europe;0;1;1
+Poland;Enter Air Sp. z o.o.;N/A;CF;737 MAX;Nov;2016;Europe;0;2;2
+Qatar;Qatar Airways;N/A;GE;777F;Jan;2022;Middle East;0;2;2
+Qatar;Qatar Airways;N/A;GE;777X;Jan;2022;Middle East;0;14;14
+Qatar;Qatar Airways;N/A;GE;777X;Jun;2015;Middle East;0;10;10
+Qatar;Qatar Airways;N/A;GE;777X;Jul;2014;Middle East;0;50;50
+Qatar;Qatar Airways;N/A;GE;787-9;Oct;2016;Middle East;0;23;23
+Romania;TAROM Romanian Air Transport;N/A;CF;737 MAX;May;2018;Europe;0;5;5
+Russian Federation;UTair Aviation;N/A;CF;737 MAX;Apr;2018;Europe;0;30;28
+Russian Federation;Volga-Dnepr UK Ltd;N/A;GE;777F;Dec;2018;Europe;0;8;6
+Singapore;BOC Aviation Limited;N/A;CF;737 MAX;Mar;2017;Southeast Asia;0;7;2
+Singapore;BOC Aviation Limited;N/A;RR;787-9;May;2018;Southeast Asia;0;3;3
+Singapore;BOC Aviation Limited;N/A;CF;737 MAX;Aug;2014;Southeast Asia;0;50;27
+Singapore;BOC Aviation Limited;N/A;CF;737 MAX;Aug;2017;Southeast Asia;0;10;8
+Singapore;BOC Aviation Limited;N/A;CF;737 MAX;Nov;2015;Southeast Asia;0;11;5
+Singapore;Scoot PTE LTD;N/A;RR;787-8;Jun;2013;Southeast Asia;0;3;3
+Singapore;Scoot PTE LTD;N/A;RR;787-9;Jun;2017;Southeast Asia;0;4;4
+Singapore;Singapore Airlines;N/A;GE;777X;Feb;2021;Southeast Asia;0;11;11
+Singapore;Singapore Airlines;N/A;GE;777X;Jun;2017;Southeast Asia;0;20;20
+Singapore;Singapore Airlines;N/A;RR;787-10;Jun;2013;Southeast Asia;0;12;7
+Singapore;Singapore Airlines;N/A;RR;787-10;Jun;2017;Southeast Asia;0;15;1
+Singapore;Singapore Airlines;N/A;CF;737 MAX;Aug;2015;Southeast Asia;0;6;6
+Singapore;Singapore Airlines;N/A;CF;737 MAX;Nov;2012;Southeast Asia;0;18;18
+South Africa;Comair Limited;N/A;CF;737 MAX;Dec;2013;Africa;0;7;5
+South Korea;Government of Korea;N/A;CF;737-800A;Mar;2020;East Asia;0;5;5
+South Korea;Jeju Air;N/A;CF;737 MAX;Nov;2018;East Asia;0;40;40
+South Korea;Korean Air;N/A;GE;787-9;Jul;2019;East Asia;0;10;10
+South Korea;Korean Air;N/A;GE;787-10;Jul;2019;East Asia;0;10;10
+South Korea;Korean Air;N/A;CF;737 MAX;Nov;2015;East Asia;0;28;28
+Spain;Air Europa;N/A;CF;737 MAX;Dec;2015;Europe;0;20;20
+Spain;Air Europa;N/A;RR;787-9;Dec;2014;Europe;0;12;5
+Taiwan;China Airlines;N/A;GE;777F;Jan;2022;Southeast Asia;0;4;4
+Taiwan;China Airlines;N/A;GE;777F;Aug;2019;Southeast Asia;0;2;2
+Taiwan;EVA Air;N/A;GE;787-9;Nov;2015;Southeast Asia;0;4;4
+Taiwan;EVA Air;N/A;GE;787-10;Nov;2015;Southeast Asia;0;10;7
+Tanzania, United Republic of;Tanzania;N/A;CF;737 MAX;Jul;2021;Africa;0;2;2
+Tanzania, United Republic of;Tanzania;N/A;GE;767-300F;Jul;2021;Africa;0;1;1
+Tanzania, United Republic of;Tanzania;N/A;GE;787-8;Jul;2021;Africa;0;1;1
+Turkey;SunExpress Airlines;N/A;CF;737 MAX;Feb;2014;Europe;0;10;10
+Turkey;SunExpress Airlines;N/A;CF;737 MAX;Aug;2017;Europe;0;7;7
+Turkey;SunExpress Airlines;N/A;CF;737 MAX;Nov;2019;Europe;0;10;10
+Turkey;SunExpress Airlines;N/A;CF;737 MAX;Dec;2015;Europe;0;6;6
+Turkey;Turkish Airlines;N/A;GE;787-9;Mar;2018;Europe;0;10;10
+Ukraine;SkyUp Airlines;N/A;CF;737 MAX;Mar;2018;Europe;0;5;5
+Ukraine;SkyUp Airlines;N/A;CF;737 MAX;Oct;2018;Europe;0;1;1
+Ukraine;SkyUp Airlines;N/A;CF;737 MAX;Nov;2018;Europe;0;1;1
+Unidentified;Unidentified Customer(s);N/A;CF;737 MAX;Jan;2018;Unidentified;0;8;2
+Unidentified;Unidentified Customer(s);N/A;CF;737 MAX;Jan;2019;Unidentified;0;9;6
+Unidentified;Unidentified Customer(s);N/A;GE;787-9;Jan;2019;Unidentified;0;5;5
+Unidentified;Unidentified Customer(s);N/A;GE;787-10;Jan;2019;Unidentified;0;3;3
+Unidentified;Unidentified Customer(s);N/A;CF;737 MAX;Feb;2017;Unidentified;0;9;9
+Unidentified;Unidentified Customer(s);N/A;CF;737 MAX;Feb;2018;Unidentified;0;7;7
+Unidentified;Unidentified Customer(s);N/A;CF;737 MAX;Feb;2021;Unidentified;0;10;10
+Unidentified;Unidentified Customer(s);N/A;CF;737 MAX;Feb;2022;Unidentified;0;14;14
+Unidentified;Unidentified Customer(s);N/A;GE;777F;Feb;2022;Unidentified;0;5;5
+Unidentified;Unidentified Customer(s);N/A;GE;787-9;Feb;2020;Unidentified;0;3;3
+Unidentified;Unidentified Customer(s);N/A;GE;787-10;Feb;2020;Unidentified;0;7;7
+Unidentified;Unidentified Customer(s);N/A;RR;787-10;Feb;2021;Unidentified;0;4;4
+Unidentified;Unidentified Customer(s);N/A;CF;737 MAX;Mar;2016;Unidentified;0;2;2
+Unidentified;Unidentified Customer(s);N/A;CF;737 MAX;Mar;2017;Unidentified;0;77;50
+Unidentified;Unidentified Customer(s);N/A;CF;737 MAX;Mar;2022;Unidentified;0;15;15
+Unidentified;Unidentified Customer(s);N/A;RR;787-8;Mar;2018;Unidentified;0;1;1
+Unidentified;Unidentified Customer(s);N/A;RR;787-10;Mar;2006;Unidentified;0;1;1
+Unidentified;Unidentified Customer(s);N/A;CF;737 MAX;Apr;2014;Unidentified;0;32;32
+Unidentified;Unidentified Customer(s);N/A;CF;737 MAX;Apr;2017;Unidentified;0;3;3
+Unidentified;Unidentified Customer(s);N/A;CF;737 MAX;Apr;2022;Unidentified;0;29;29
+Unidentified;Unidentified Customer(s);N/A;GE;777F;Apr;2022;Unidentified;0;2;2
+Unidentified;Unidentified Customer(s);N/A;GE;787-9;Apr;2016;Unidentified;0;5;5
+Unidentified;Unidentified Customer(s);N/A;CF;737 MAX;May;2013;Unidentified;0;29;14
+Unidentified;Unidentified Customer(s);N/A;CF;737 MAX;May;2014;Unidentified;0;29;29
+Unidentified;Unidentified Customer(s);N/A;CF;737 MAX;May;2018;Unidentified;0;16;15
+Unidentified;Unidentified Customer(s);N/A;GE;767-300F;May;2020;Unidentified;0;5;5
+Unidentified;Unidentified Customer(s);N/A;GE;777F;May;2021;Unidentified;0;1;1
+Unidentified;Unidentified Customer(s);N/A;CF;737 MAX;Jun;2013;Unidentified;0;20;20
+Unidentified;Unidentified Customer(s);N/A;CF;737 MAX;Jun;2014;Unidentified;0;46;35
+Unidentified;Unidentified Customer(s);N/A;CF;737 MAX;Jun;2017;Unidentified;0;22;22
+Unidentified;Unidentified Customer(s);N/A;GE;777X;Jun;2015;Unidentified;0;10;10
+Unidentified;Unidentified Customer(s);N/A;CF;737 MAX;Jul;2014;Unidentified;0;43;43
+Unidentified;Unidentified Customer(s);N/A;CF;737 MAX;Jul;2016;Unidentified;0;12;10
+Unidentified;Unidentified Customer(s);N/A;CF;737 MAX;Jul;2021;Unidentified;0;1;1
+Unidentified;Unidentified Customer(s);N/A;CF;737-800;Jul;2015;Unidentified;0;2;2
+Unidentified;Unidentified Customer(s);N/A;GE;777F;Jul;2021;Unidentified;0;5;5
+Unidentified;Unidentified Customer(s);N/A;GE;787-8;Jul;2019;Unidentified;0;1;1
+Unidentified;Unidentified Customer(s);N/A;GE;787-9;Jul;2021;Unidentified;0;4;4
+Unidentified;Unidentified Customer(s);N/A;CF;737 MAX;Aug;2014;Unidentified;0;10;7
+Unidentified;Unidentified Customer(s);N/A;CF;737 MAX;Aug;2015;Unidentified;0;2;2
+Unidentified;Unidentified Customer(s);N/A;CF;737 MAX;Aug;2018;Unidentified;0;40;29
+Unidentified;Unidentified Customer(s);N/A;CF;737 MAX;Aug;2021;Unidentified;0;2;2
+Unidentified;Unidentified Customer(s);N/A;GE;777F;Aug;2021;Unidentified;0;10;10
+Unidentified;Unidentified Customer(s);N/A;GE;787-9;Aug;2018;Unidentified;0;2;2
+Unidentified;Unidentified Customer(s);N/A;GE;787-9;Aug;2021;Unidentified;0;7;7
+Unidentified;Unidentified Customer(s);N/A;CF;737 MAX;Sep;2016;Unidentified;0;15;15
+Unidentified;Unidentified Customer(s);N/A;CF;737 MAX;Sep;2017;Unidentified;0;8;8
+Unidentified;Unidentified Customer(s);N/A;CF;737 MAX;Sep;2018;Unidentified;0;21;17
+Unidentified;Unidentified Customer(s);N/A;CF;737 MAX;Sep;2021;Unidentified;0;10;10
+Unidentified;Unidentified Customer(s);N/A;GE;777F;Sep;2021;Unidentified;0;5;5
+Unidentified;Unidentified Customer(s);N/A;GE;787-9;Sep;2018;Unidentified;0;1;1
+Unidentified;Unidentified Customer(s);N/A;CF;737 MAX;Oct;2015;Unidentified;0;2;2
+Unidentified;Unidentified Customer(s);N/A;CF;737 MAX;Oct;2016;Unidentified;0;8;8
+Unidentified;Unidentified Customer(s);N/A;CF;737 MAX;Oct;2017;Unidentified;0;46;26
+Unidentified;Unidentified Customer(s);N/A;CF;737 MAX;Oct;2019;Unidentified;0;1;1
+Unidentified;Unidentified Customer(s);N/A;CF;737 MAX;Oct;2021;Unidentified;0;8;8
+Unidentified;Unidentified Customer(s);N/A;GE;777-300ER;Oct;2017;Unidentified;0;1;1
+Unidentified;Unidentified Customer(s);N/A;GE;787-9;Oct;2016;Unidentified;0;3;3
+Unidentified;Unidentified Customer(s);N/A;NS;787-9;Oct;2016;Unidentified;0;5;5
+Unidentified;Unidentified Customer(s);N/A;CF;737 MAX;Nov;2014;Unidentified;0;31;31
+Unidentified;Unidentified Customer(s);N/A;CF;737 MAX;Nov;2016;Unidentified;0;2;2
+Unidentified;Unidentified Customer(s);N/A;CF;737 MAX;Nov;2019;Unidentified;0;20;20
+Unidentified;Unidentified Customer(s);N/A;CF;737 MAX;Nov;2021;Unidentified;0;7;7
+Unidentified;Unidentified Customer(s);N/A;GE;787-9;Nov;2017;Unidentified;0;4;4
+Unidentified;Unidentified Customer(s);N/A;GE;787-9;Nov;2019;Unidentified;0;1;1
+Unidentified;Unidentified Customer(s);N/A;CF;737 MAX;Dec;2013;Unidentified;0;14;14
+Unidentified;Unidentified Customer(s);N/A;CF;737 MAX;Dec;2014;Unidentified;0;80;80
+Unidentified;Unidentified Customer(s);N/A;CF;737 MAX;Dec;2015;Unidentified;0;19;19
+Unidentified;Unidentified Customer(s);N/A;CF;737 MAX;Dec;2016;Unidentified;0;18;3
+Unidentified;Unidentified Customer(s);N/A;CF;737 MAX;Dec;2017;Unidentified;0;35;34
+Unidentified;Unidentified Customer(s);N/A;CF;737 MAX;Dec;2018;Unidentified;0;9;9
+Unidentified;Unidentified Customer(s);N/A;CF;737 MAX;Dec;2021;Unidentified;0;7;7
+Unidentified;Unidentified Customer(s);N/A;GE;787-8;Dec;2017;Unidentified;0;5;4
+Unidentified;Unidentified Customer(s);N/A;GE;787-8;Dec;2019;Unidentified;0;1;1
+Unidentified;Unidentified Customer(s);N/A;GE;787-10;Dec;2008;Unidentified;0;3;3
+United Arab Emirates;Dubai Aerospace Enterprise;N/A;CF;737 MAX;Apr;2021;Middle East;0;5;5
+United Arab Emirates;Emirates;N/A;GE;777F;May;2021;Middle East;0;2;2
+United Arab Emirates;Emirates;N/A;GE;777X;Jul;2014;Middle East;0;150;115
+United Arab Emirates;Emirates;N/A;NS;787-9;Nov;2019;Middle East;0;30;30
+United Arab Emirates;Etihad Airways;N/A;GE;787-9;Mar;2008;Middle East;0;4;4
+United Arab Emirates;Etihad Airways;N/A;GE;777X;Nov;2013;Middle East;0;25;25
+United Arab Emirates;Etihad Airways;N/A;GE;787-10;Nov;2013;Middle East;0;21;21
+United Arab Emirates;Etihad Airways;N/A;GE;787-9;Dec;2011;Middle East;0;7;7
+United Arab Emirates;flydubai;N/A;CF;737 MAX;Mar;2017;Middle East;0;1;1
+United Arab Emirates;flydubai;N/A;CF;737 MAX;Dec;2013;Middle East;0;46;46
+United Arab Emirates;flydubai;N/A;CF;737 MAX;Dec;2017;Middle East;0;175;110
+United Kingdom;British Airways;N/A;GE;777X;Mar;2019;Europe;0;18;18
+United Kingdom;British Airways;N/A;RR;787-10;Dec;2013;Europe;0;10;10
+United Kingdom;TUI Travel PLC;N/A;CF;737 MAX;Feb;2018;Europe;0;2;2
+United Kingdom;TUI Travel PLC;N/A;CF;737 MAX;Jul;2013;Europe;0;36;36
+United Kingdom;TUI Travel PLC;N/A;CF;737 MAX;Jul;2016;Europe;0;2;2
+USA;777 Partners;N/A;CF;737 MAX;Mar;2021;North America;0;13;13
+USA;777 Partners;N/A;CF;737 MAX;Aug;2021;North America;0;8;8
+USA;777 Partners;N/A;CF;737 MAX;Sep;2021;North America;0;6;6
+USA;777 Partners;N/A;CF;737 MAX;Nov;2021;North America;0;30;30
+USA;Air Lease Corporation;N/A;CF;737 MAX;Feb;2022;North America;0;18;18
+USA;Air Lease Corporation;N/A;CF;737 MAX;Mar;2014;North America;0;8;1
+USA;Air Lease Corporation;N/A;CF;737 MAX;Mar;2018;North America;0;8;8
+USA;Air Lease Corporation;N/A;CF;737 MAX;Mar;2022;North America;0;32;32
+USA;Air Lease Corporation;N/A;CF;737 MAX;May;2016;North America;0;1;1
+USA;Air Lease Corporation;N/A;RR;787-9;Jun;2019;North America;0;1;1
+USA;Air Lease Corporation;N/A;CF;737 MAX;Jul;2012;North America;0;50;16
+USA;Air Lease Corporation;N/A;CF;737 MAX;Jul;2014;North America;0;9;3
+USA;Air Lease Corporation;N/A;CF;737 MAX;Jul;2017;North America;0;12;7
+USA;Air Lease Corporation;N/A;CF;737 MAX;Aug;2018;North America;0;30;30
+USA;Air Lease Corporation;N/A;RR;787-9;Aug;2018;North America;0;2;1
+USA;Air Lease Corporation;N/A;CF;737 MAX;Sep;2013;North America;0;2;1
+USA;Air Lease Corporation;N/A;GE;787-9;Sep;2013;North America;0;1;1
+USA;Air Lease Corporation;N/A;GE;787-10;Sep;2013;North America;0;15;13
+USA;Air Lease Corporation;N/A;NS;787-10;Sep;2013;North America;0;4;4
+USA;Air Lease Corporation;N/A;GE;787-9;Oct;2019;North America;0;1;1
+USA;Air Lease Corporation;N/A;NS;787-9;Oct;2019;North America;0;3;3
+USA;Air Lease Corporation;N/A;CF;737 MAX;Dec;2015;North America;0;6;3
+USA;Alaska Airlines;N/A;CF;737 MAX;Mar;2021;North America;0;27;27
+USA;Alaska Airlines;N/A;CF;737 MAX;May;2021;North America;0;13;13
+USA;Alaska Airlines;N/A;CF;737 MAX;Aug;2021;North America;0;12;12
+USA;Alaska Airlines;N/A;CF;737 MAX;Oct;2012;North America;0;27;13
+USA;Allegiant Air;N/A;CF;737 MAX;Dec;2021;North America;0;50;50
+USA;American Airlines;N/A;CF;737 MAX;Jan;2022;North America;0;23;23
+USA;American Airlines;N/A;CF;737 MAX;Feb;2013;North America;0;58;58
+USA;American Airlines;N/A;GE;787-9;Apr;2018;North America;0;25;25
+USA;Atlas Air Worldwide Holdings,;N/A;GE;747-8F;Jan;2021;North America;0;4;4
+USA;Atlas Air Worldwide Holdings,;N/A;GE;777F;Dec;2021;North America;0;4;4
+USA;Aviation Capital Group;N/A;CF;737 MAX;Apr;2022;North America;0;9;9
+USA;Aviation Capital Group;N/A;CF;737 MAX;Dec;2012;North America;0;54;13
+USA;BDS U.S. Navy (P-8A Poseidon);N/A;CF;737-800A;Mar;2020;North America;0;5;5
+USA;BDS U.S. Navy (P-8A Poseidon);N/A;CF;737-800A;Mar;2021;North America;0;9;9
+USA;BDS USAF Tanker Program;N/A;PW;767-2C;Feb;2021;North America;0;27;27
+USA;BDS USAF Tanker Program;N/A;PW;767-2C;Mar;2011;North America;0;4;4
+USA;BDS USAF Tanker Program;N/A;PW;767-2C;Aug;2016;North America;0;5;5
+USA;BDS USAF Tanker Program;N/A;PW;767-2C;Sep;2019;North America;0;2;2
+USA;Boeing Capital Corporation;N/A;GE;787-8;Apr;2018;North America;0;13;13
+USA;Boeing Capital Corporation;N/A;GE;787-9;Apr;2018;North America;0;5;5
+USA;Boeing Capital Corporation;N/A;GE;787-9;Aug;2018;North America;0;3;3
+USA;Business Jet / VIP Customer(s);N/A;CF;737 MAX;Jan;2018;North America;0;1;1
+USA;Business Jet / VIP Customer(s);N/A;CF;737 MAX;May;2015;North America;0;1;1
+USA;Business Jet / VIP Customer(s);N/A;CF;737 MAX;Jun;2018;North America;0;1;1
+USA;Business Jet / VIP Customer(s);N/A;CF;737 MAX;Jul;2021;North America;0;1;1
+USA;Business Jet / VIP Customer(s);N/A;CF;737 MAX;Sep;2017;North America;0;1;1
+USA;Business Jet / VIP Customer(s);N/A;NS;787-8;Dec;2007;North America;0;1;1
+USA;DHL Aviation Americas;N/A;GE;777F;Mar;2022;North America;0;6;6
+USA;DHL Aviation Americas;N/A;GE;777F;Dec;2020;North America;0;7;7
+USA;Embassy of Germany in U.S.A.;N/A;CF;737-800A;Sep;2021;North America;0;5;5
+USA;FedEx Express;N/A;GE;767-300F;Feb;2020;North America;0;1;1
+USA;FedEx Express;N/A;GE;767-300F;Mar;2020;North America;0;1;1
+USA;FedEx Express;N/A;GE;767-300F;May;2020;North America;0;1;1
+USA;FedEx Express;N/A;GE;767-300F;Jun;2019;North America;0;4;4
+USA;FedEx Express;N/A;GE;767-300F;Jun;2020;North America;0;1;1
+USA;FedEx Express;N/A;GE;767-300F;Jun;2021;North America;0;18;18
+USA;FedEx Express;N/A;GE;777F;Jun;2018;North America;0;2;2
+USA;FedEx Express;N/A;GE;777F;Jun;2021;North America;0;1;1
+USA;FedEx Express;N/A;GE;767-300F;Jul;2015;North America;0;9;9
+USA;FedEx Express;N/A;GE;777F;Jul;2021;North America;0;1;1
+USA;FedEx Express;N/A;GE;777F;Aug;2021;North America;0;1;1
+USA;FedEx Express;N/A;GE;767-300F;Sep;2019;North America;0;1;1
+USA;FedEx Express;N/A;GE;777F;Sep;2021;North America;0;1;1
+USA;Hawaiian Airlines;N/A;GE;787-9;Jul;2018;North America;0;5;5
+USA;Jackson Square Aviation;N/A;CF;737 MAX;Jun;2018;North America;0;30;22
+USA;Southwest Airlines;N/A;CF;737 MAX;Jan;2022;North America;0;9;9
+USA;Southwest Airlines;N/A;CF;737 MAX;Mar;2018;North America;0;40;40
+USA;Southwest Airlines;N/A;CF;737 MAX;Mar;2021;North America;0;100;100
+USA;Southwest Airlines;N/A;CF;737 MAX;May;2013;North America;0;30;30
+USA;Southwest Airlines;N/A;CF;737 MAX;May;2021;North America;0;34;34
+USA;Southwest Airlines;N/A;CF;737 MAX;Jul;2021;North America;0;6;6
+USA;Southwest Airlines;N/A;CF;737 MAX;Nov;2013;North America;0;16;16
+USA;Southwest Airlines;N/A;CF;737 MAX;Dec;2011;North America;0;111;110
+USA;Southwest Airlines;N/A;CF;737 MAX;Dec;2017;North America;0;33;33
+USA;Southwest Airlines;N/A;CF;737 MAX;Dec;2019;North America;0;1;1
+USA;United Airlines;N/A;CF;737 MAX;Feb;2021;North America;0;25;25
+USA;United Airlines;N/A;GE;787-10;Feb;2010;North America;0;5;1
+USA;United Airlines;N/A;CF;737 MAX;Mar;2021;North America;0;25;17
+USA;United Airlines;N/A;CF;737 MAX;Apr;2015;North America;0;1;1
+USA;United Airlines;N/A;CF;737 MAX;Jun;2021;North America;0;200;198
+USA;United Airlines;N/A;CF;737 MAX;Jul;2012;North America;0;75;65
+USA;United Airlines;N/A;CF;737 MAX;Aug;2021;North America;0;8;8
+USA;United Airlines;N/A;CF;737 MAX;Dec;2016;North America;0;48;48
+USA;United Airlines;N/A;CF;737 MAX;Dec;2018;North America;0;19;3
+USA;UPS;N/A;GE;767-300F;Dec;2021;North America;0;19;19
+USA;Western Global Airlines Inc;N/A;GE;777F;Jan;2022;North America;0;2;2
+Vietnam;Bamboo Airways;N/A;NS;787-9;Jan;2019;Southeast Asia;0;10;10
+Vietnam;VietJet Air;N/A;CF;737 MAX;May;2016;Southeast Asia;0;100;100
+Vietnam;VietJet Air;N/A;CF;737 MAX;Dec;2018;Southeast Asia;0;100;100
+All;All;All;All;All;All;All;All;24,025;33,587;5,163
